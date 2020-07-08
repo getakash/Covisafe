@@ -18,7 +18,7 @@ function Footer() {
                 </div>
                 <div className="footer--content-text">
                     This website is built by <a href="http://www.linkedin.com/in/akash-verma-18135008" class="footer--link"> Akash Verma</a>. You can get
-                        the available code for this website on this <a href="https://github.com/Akash-vaerma-18135008/aayush-portfolio" class="footer--link"> Github repo</a>. You can use the code but do not claim it as your own.
+                        the available code for this website on this <a href="https://github.com/Akash-vaerma-18135008/Covisafe" class="footer--link"> Github repo</a>. You can use the code but do not claim it as your own.
                 </div>
             </div>
         </div>
