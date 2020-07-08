@@ -20,6 +20,7 @@
         @media screen and (max-width: 43.75em){
             &{
                 grid-template-columns: repeat(1,100%);
+                background-image: linear-gradient(rgba($col-prim-dark,0.8), rgba($col-prim-dark,0.9)), url("../src/image/covid-bg-sm.jpg");
             }
         }
         @media screen and (min-height: 52em){

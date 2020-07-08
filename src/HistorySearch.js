@@ -22,7 +22,7 @@ class HistorySearch extends PureComponent {
                   let name= val.historyCountry;
                   return(
                       <div className="country-search">
-                          <div className="country-search--intro">
+                          <div className="country-search--intro history-search-main">
                             <div className="history-search">
                                   <h1>{name}</h1>
                                   <h1>Till <span>{day}</span></h1>

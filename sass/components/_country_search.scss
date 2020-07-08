@@ -6,7 +6,6 @@
     @media screen and (max-width: 56.25em){
         grid-template-columns: 1fr;
     }
-
     &--intro{
         padding: 5rem;
         display: flex;
@@ -26,7 +25,6 @@
         }
         .history-search{
                 margin-top: 10rem;
-
         }
         h1{
             font-size: 3rem;
@@ -37,6 +35,12 @@
                    font-weight: 400;
             }
         }
+    }
+    .history-search-main{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     &--info{
         display: flex;

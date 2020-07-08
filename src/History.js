@@ -72,6 +72,7 @@ class History extends PureComponent {
                             className="history-form--date"
                             type="date"
                             min="2020-05-01"
+                            placeholder="date"
                             max={today}
                             onChange={this.handleChange}
                             name="date" />
