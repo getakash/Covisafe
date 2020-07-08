@@ -31,7 +31,6 @@ class InputText extends PureComponent {
         });
         this.props.history.push("/country");
     }
-
     render() {
         if(this.state.isLoading){
             return(
